@@ -1,0 +1,28 @@
+/* NAVIGATAION BAR CODES */
+.navbar{
+    background: lightgray;
+   
+}
+    
+.nav-link, .navbar-nav li a {
+    color: black;
+    font-size: 26px;
+    margin-right: 50px;
+   
+}
+
+
+.navbar .navbar-nav a:hover{
+    border: 1px black;
+    border-radius: 10px;
+    transition: 0.1s;
+
+}
+
+.logo{
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+
